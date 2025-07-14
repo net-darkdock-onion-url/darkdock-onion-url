@@ -70,3 +70,5 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/visuals/object.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/visuals/shortcut.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update: Link is now working correctly
