@@ -75,4 +75,6 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 
 
 
-Update:  07/21/2025 22-06-16
+
+
+Update:  24.07.2025 12:03 url is up and running again
