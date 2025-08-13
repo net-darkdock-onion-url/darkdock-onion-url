@@ -79,4 +79,6 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 
 
 
-Update:  04.08.2025
+
+
+Update:  13.08.2025 url is now clickable
