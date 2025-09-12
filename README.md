@@ -85,4 +85,6 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 
 
 
-Update:  08/23/2025 Link is now working and available
+
+
+Update:  09/12/2025
