@@ -89,4 +89,6 @@ Save your recovery details, such as a mnemonic phrase or a password reset method
 
 
 
-Update:  18.09.2025
+
+
+Update:  01.10.2025
